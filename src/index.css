@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --color-light:#fffffff3;
+  --bg-light:#fffffff0;
+
+  --color-dark:#000000ea;
+  --bg-dark:#000000ef;
+  
+}
+
+*{
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
