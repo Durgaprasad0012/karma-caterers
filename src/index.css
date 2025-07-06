@@ -1,12 +1,14 @@
 @import "tailwindcss";
 
 :root{
-  --color-light:#fffffff3;
-  --bg-light:#fffffff0;
+  --color-light:#ffffff;
 
   --color-dark:#000000ea;
   --bg-dark:#000000ef;
-  
+  --theme-color:#ff5500;
+  --theme-light:#ff5500a3;
+  --theme-color-dark:#022267;
+  --theme-light-dark:#0222674c;
 }
 
 *{
