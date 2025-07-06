@@ -3,7 +3,7 @@ import CommonNavBar from '../componets/ui/CommonNavBar'
 
 const Home = () => {
   return (
-    <div>
+    <div className='bg-theme'>
         <CommonNavBar />
     </div>
   )
